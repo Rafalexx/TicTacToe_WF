@@ -1,0 +1,67 @@
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe.config
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\bin\Debug\WF_TicTacToe.pdb
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.Form1.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.Properties.Resources.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.GenerateResource.cache
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.exe
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.pdb
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl1.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl2.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe.config
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\bin\Debug\WF_TicTacToe.pdb
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.Form1.resources
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.Properties.Resources.resources
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl1.resources
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl2.resources
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.GenerateResource.cache
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.exe
+C:\Users\rafal\Desktop\KOPIA END 2\PROGRAM_NA_5\WF_TicTacToe\obj\Debug\WF_TicTacToe.pdb
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe.config
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\bin\Debug\WF_TicTacToe.pdb
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.Form1.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.Properties.Resources.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl1.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl2.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.GenerateResource.cache
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.exe
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.pdb
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl3.resources
+D:\Program Files (x86)\Source\PROGRAM_NA_6\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl4.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe.config
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\bin\Debug\WF_TicTacToe.pdb
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.Form1.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.Properties.Resources.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl1.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl2.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl3.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl4.resources
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.GenerateResource.cache
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.exe
+C:\Users\Rafalex\Desktop\Uniwersytet Jana Kochanowskiego\Semestr 5\Programowanie w C#\Projekt\WF_TicTacToe\obj\Debug\WF_TicTacToe.pdb
+C:\Users\rafal\Desktop\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe.config
+C:\Users\rafal\Desktop\WF_TicTacToe\bin\Debug\WF_TicTacToe.exe
+C:\Users\rafal\Desktop\WF_TicTacToe\bin\Debug\WF_TicTacToe.pdb
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.Form1.resources
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.Properties.Resources.resources
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl1.resources
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl2.resources
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl3.resources
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.UserControl4.resources
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.GenerateResource.cache
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.exe
+C:\Users\rafal\Desktop\WF_TicTacToe\obj\Debug\WF_TicTacToe.pdb
